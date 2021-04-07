@@ -28,6 +28,8 @@ infantil	B	=	8-10	anos
 juvenil	A	=	11-13	anos	
 juvenil	B	=	14-17	anos	
 adulto	=	maiores	de	18	anos
+
+
 6.Escreva um algoritmo que leia o código de um
 aluno e suas três notas. Calcule a média
 ponderada do aluno, considerando que o peso
