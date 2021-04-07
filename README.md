@@ -1,12 +1,12 @@
 ## LISTA DE EXERCÍCIOS 3 – AULA 5
 
-1.Construir um algoritmo que dados dois números
+1. Construir um algoritmo que dados dois números
 escreva o maior.
 
 2. Faça um algoritmo que leia um número e mostre
 se ele é positivo, negativo ou zero.
 
-3.Escrever um algoritmo que leia uma nota e
+3. Escrever um algoritmo que leia uma nota e
 mostre o conceito equivalente. Suponha a
 seguinte tabela de conversão.
 Nota Conceito
@@ -20,7 +20,7 @@ podem ser lados de um triângulo. Observe: A, B
 e C são lados de um triângulo se:
 A < (B+C) e B < (C+A) e C < (A+B).
 
-5.Elabore um algoritmo que, dada a idade de um
+5. Elabore um algoritmo que, dada a idade de um
 nadador classifica-o em uma das seguintes
 categorias:
 infantil	A	=	5	- 7	anos	
@@ -30,7 +30,7 @@ juvenil	B	=	14-17	anos
 adulto	=	maiores	de	18	anos
 
 
-6.Escreva um algoritmo que leia o código de um
+6. Escreva um algoritmo que leia o código de um
 aluno e suas três notas. Calcule a média
 ponderada do aluno, considerando que o peso
 para a maior nota seja 4 e para as duas restantes,
