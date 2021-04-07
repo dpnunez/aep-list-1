@@ -2,9 +2,9 @@
 
 // Author: Daniel Nunez
 
-// Faça um algoritmo que leia um número inteiro e
+// Faï¿½a um algoritmo que leia um nï¿½mero inteiro e
 // mostre uma mensagem indicando se este
-// número é par ou ímpar, e se é positivo, negativo
+// nï¿½mero ï¿½ par ou ï¿½mpar, e se ï¿½ positivo, negativo
 // ou zero. 
 
 int main(){
@@ -14,10 +14,10 @@ int main(){
 	scanf("%d", &number);
 
 	// validacao par ou impar
-	if (number % 2 == 0) {
-		printf("Numero PAR\n");
-	} else {
+	if (number % 2) {
 		printf("Numero IMPAR\n");
+	} else {
+		printf("Numero PAR\n");
 	}
 
 	// Validacao positivo negativo ou zero
